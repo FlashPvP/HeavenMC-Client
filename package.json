@@ -32,6 +32,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/FlashPvP/HEAVENMC-CLIENT-v1.0.5.git"
+        "url": "git+https://github.com/FlashPvP/HeavenMC-Client.git"
     }
 }
